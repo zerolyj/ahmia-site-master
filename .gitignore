@@ -1,0 +1,12 @@
+*.pyc
+*.bak
+*.log
+templates_old/
+venv/
+ahmia_db
+onionbot/*.json
+.idea/
+.DS_Store
+ahmia/ahmia/migrations/
+.env
+staticfiles
